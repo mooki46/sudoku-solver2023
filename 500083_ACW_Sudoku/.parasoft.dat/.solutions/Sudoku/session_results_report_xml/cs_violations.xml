@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mergePnt id="csViolations">
+  <StdViols>
+    <StdViol msg="Declare parameter 'cell' as const" ln="19" sev="3" auth="Niko" rule="CODSTA-CPP-53" tool="c++test" cat="CODSTA-CPP" lang="cpp" locType="sr" urgent="true" config="1" hash="-1505041555" locStartln="19" locStartPos="30" locEndLn="19" locEndPos="31" locFile="Sudoku/Sudoku/CellGroup.cpp"/>
+    <StdViol msg="Declare local variable 'row' as const" ln="21" sev="3" auth="Niko" rule="CODSTA-CPP-53" tool="c++test" cat="CODSTA-CPP" lang="cpp" locType="sr" urgent="true" config="1" hash="-1505041555" locStartln="21" locStartPos="5" locEndLn="21" locEndPos="6" locFile="Sudoku/Sudoku/CellGroup.cpp"/>
+  </StdViols>
+</mergePnt>
